@@ -33,7 +33,7 @@ const projectList = [
   {
     title: "Financial Advisor and ATM Finder (First prize winner)",
     description:
-      "Won first place at a Major League Hacking Hackathons by creating a web app to help people with financials based on their bank balance (Using OpenAI and Capital One's API's) and find ATMs near them.",
+      "Won first place at a Major League Hacking Hackathon against 85+ teams by creating a web app to help people with financials based on their bank balance (Using OpenAI and Capital One's API's) and find ATMs near them.",
     url: "https://github.com/sahil10210/capitalOneHack.git",
   },
   {
