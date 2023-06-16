@@ -28782,7 +28782,7 @@ const imageAltText = "desktop with books and laptop";
     },
     {
         title: "Java Maze Game (BFS/ DFS & Player controls)",
-        description: "The Java Maze Game challenges players with intricate mazes, while also showcasing the workings of Breadth-First Search (BFS) and Depth-First Search (DFS) algorithms. The mazes are uniquely generated using Kruskal's algorithm from a grid of cells.",
+        description: "The Java Maze Game challenges players with intricate mazes, while also showcasing the workings of Breadth-First Search (BFS) and Depth-First Search (DFS) algorithms. The mazes are uniquely generated using Kruskal's and Dijkstra's Algorithm.",
         url: "https://github.com/sahil102103/Maze"
     }, 
 ];
