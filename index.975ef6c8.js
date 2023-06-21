@@ -28768,7 +28768,7 @@ const imageAltText = "desktop with books and laptop";
     {
         title: "My Resume Site",
         description: "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and software engineering abilities.",
-        url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website"
+        url: ""
     },
     {
         title: "War Card Game",
